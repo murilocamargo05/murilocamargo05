@@ -68,17 +68,16 @@ Aqui você encontrará parte do meu processo de evolução, marcado pelo esforç
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=murilocamargo05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<img
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=murilocamargo05&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
 
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilocamargo05&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias"
-  />
+<img
+  alt="Top Langs"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilocamargo05&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias"
+/>
 </p>
 
