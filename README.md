@@ -16,6 +16,13 @@ Aqui você encontrará parte do meu processo de evolução, marcado pelo esforç
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
     />
     </a> 
+   <a href="https://www.linkedin.com/in/murilocamargo05/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
     <a href="https://github.com/murilocamargo05?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
