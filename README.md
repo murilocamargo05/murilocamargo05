@@ -3,7 +3,7 @@
 **`Desenvolvedor`**
 
 Olá! Me chamo Murilo Camargo, tenho 21 anos e sou do Guarujá-SP.
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara e estou concluindo a formação de Operador de Suporte Técnico em TI pelo SENAI Antonio Souza Noschese. Eu entrei para a área da tecnologia por afinidade e pela vontade de construir uma carreira sólida, mesmo sem experiência prévia. Desde então, venho me dedicando diariamente aos estudos e ao desenvolvimento das minhas habilidades como programador. Estou dando iníico à minha trajetória, aprendendo linguagens de programação, lógica e boas práticas de desenvolvimento, com o objetivo de me consolidar profissionalmente no setor de TI. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara e concluí a formação de Operador de Suporte Técnico em TI pelo SENAI Antonio Souza Noschese. Eu entrei para a área da tecnologia por afinidade e pela vontade de construir uma carreira sólida, mesmo sem experiência prévia. Desde então, venho me dedicando diariamente aos estudos e ao desenvolvimento das minhas habilidades como programador. Estou dando iníico à minha trajetória, aprendendo linguagens de programação, lógica e boas práticas de desenvolvimento, com o objetivo de me consolidar profissionalmente no setor de TI. 
 
 Aqui você encontrará parte do meu processo de evolução, marcado pelo esforço, persistência e vontade de crescer naquilo que escolhi para a minha vida!
 
